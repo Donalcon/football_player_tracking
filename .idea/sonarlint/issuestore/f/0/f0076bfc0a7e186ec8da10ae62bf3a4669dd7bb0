@@ -1,0 +1,6 @@
+
+vpython:S117"SRename this local variable "ID" to match the regular expression ^[_a-z][a-z0-9_]*$.(—øïÿÿÿÿÿ8–¼ùŠÿ0
+qpython:S117"SRename this parameter "CLASSES" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ¡Ç÷8–¼ùŠÿ0
+upython:S117"WRename this parameter "Text_colors" to match the regular expression ^[_a-z][a-z0-9_]*$.(İ¡Ç÷8–¼ùŠÿ0
+}python:S117%"ZRename this local variable "fontScale" to match the regular expression ^[_a-z][a-z0-9_]*$.(ñ·æîûÿÿÿÿ8–¼ùŠÿ0
+spython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(İ¡Ç÷8—¼ùŠÿ0

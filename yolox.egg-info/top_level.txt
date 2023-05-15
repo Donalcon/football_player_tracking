@@ -1,0 +1,8 @@
+ByteTrack
+Data
+Yolo
+build
+cython_bbox
+football-players-detection-2
+venv
+yolox

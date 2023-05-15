@@ -1,0 +1,15 @@
+names:
+- ball
+- goalkeeper
+- player
+- referee
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: football-players-detection-3zvbc
+  url: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1
+  version: 1
+  workspace: roboflow-jvuqo
+test: C:/Users/Owner/PycharmProjects/football_player_tracking/football-players-detection-1/test/images
+train: C:/Users/Owner/PycharmProjects/football_player_tracking/football-players-detection-1/train/images
+val: C:/Users/Owner/PycharmProjects/football_player_tracking/football-players-detection-1/valid/images
